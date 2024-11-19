@@ -25,16 +25,17 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
+<div>
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <p align="left"> <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img
+      <a href="https://www.java.com/es/" target="_blank" rel="noreferrer"> <img
       src="https://ictea.com/cs/assets/img/knowledbase/common/java_logo.png"
       alt="java" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <p align="left"> <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img
+   <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img
       src="https://upload.wikimedia.org/wikipedia/en/5/5a/MongoDB_Fores-Green.svg"
       alt="Mongo" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
           <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
       src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png"
       alt="Spring" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-
+</div>
