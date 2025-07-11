@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Carlos Sinuco
 
-### Desarrollador Frontend | React • JavaScript • TypeScript
+### Desarrollador Fullstack | React • JavaScript • TypeScript
 
 Soy un desarrollador web con enfoque en frontend, apasionado por construir interfaces modernas, funcionales y accesibles usando tecnologías como **React**, **TypeScript**, **TailwindCSS** y **Vite**. Me encanta trabajar en proyectos que combinan diseño, lógica de negocio y buenas prácticas de desarrollo.
 
