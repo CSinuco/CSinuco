@@ -32,7 +32,5 @@ Soy un desarrollador web con enfoque en frontend, apasionado por construir inter
 - 📧 carlossinucom14@gmail.com
 - 🧑‍💻 [GitHub](https://github.com/CSinuco)
 
----
 
-> “El código bien hecho no solo funciona, también se entiende.”
 
